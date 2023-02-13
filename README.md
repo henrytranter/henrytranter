@@ -1,6 +1,8 @@
-### Hi there 👋
+**Henry Tranter (he/him)** - henry.tranter@manchester.ac.uk
 
-Research Software Developer @ UoM, UK.
+Software engineer in Digital Health Software at the University of Manchester, UK.\
+Find out more about us here: https://sites.manchester.ac.uk/digital-health-software/ \
+https://www.name-coach.com/henry-tranter
 
 
 <!--
