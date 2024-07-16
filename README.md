@@ -1,4 +1,3 @@
-**Henry Tranter (he/him)** - henry.tranter@manchester.ac.uk - https://www.name-coach.com/henry-tranter
+**Henry Tranter (he/him)** - henryct@hotmail.co.uk - https://www.name-coach.com/henry-tranter
 
-Software engineer in the Digital Health Software team at the University of Manchester, UK.\
-Find out more about us here: https://sites.manchester.ac.uk/digital-health-software/
+Software engineer and data scientist based in Manchester, UK.\
